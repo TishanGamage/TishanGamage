@@ -17,7 +17,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Programming Languages 🌐
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="24">](https://www.java.com/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="24">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="24">](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="24">](https://www.python.org/) |
+|[<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="24">](https://www.java.com/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="24">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="24">](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="24">](https://www.python.org/) |
 |---|---|---|---|---|
 
 
