@@ -9,7 +9,8 @@
 
 <div>
  <p>
-I am a Mid-level developer able to build a Web presence from the ground up - from concept, navigation, layout, and programming. Skilled at writing well-designed, testable, and efficient code using current best practices in Web development. Fast learner, hard worker, and team player who is proficient in an array of scripting languages and multimedia Web tools.
+I'm Tishan Dhanuja, an aspiring developer eager to dive into the world of coding. I've always been captivated by technology and its ability to shape the future. As a trainee developer, I'm here to absorb knowledge, tackle challenges, and grow alongside this incredible team.
+Excited to get started!
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
