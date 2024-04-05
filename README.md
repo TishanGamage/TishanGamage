@@ -28,11 +28,5 @@ An aspiring developer eager to dive into the world of coding. I've always been c
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="24">](https://www.jetbrains.com/idea/) |
 |---|---|
 
-
-
-### Github Stats
-
-[![TishanGamage GitHub Stats](https://github-readme-stats.vercel.app/api?username=TishanGamage&show_icons=true&count_private=true)](https://github.com/TishanGamage)
-
 ⭐️ From [@Tishan Gamage](https://github.com/TishanGamage)
 )
