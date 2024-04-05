@@ -9,10 +9,8 @@
 
 <div>
  <p>
-I'm Tishan Dhanuja, an aspiring developer eager to dive into the world of coding. I've always been captivated by technology and its ability to shape the future. As a trainee developer, I'm here to absorb knowledge, tackle challenges, and grow alongside this incredible team.
-Excited to get started!
-
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+I'm Tishan Dhanuja, an aspiring developer eager to dive into the world of coding. I've always been captivated by technology and its ability to shape the future. As a trainee developer, I'm here to absorb knowledge, tackle challenges, and grow alongside this incredible team.<br>
+<b>>Excited to get started! </b>
 </p>
 </div>
 
