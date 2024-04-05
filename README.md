@@ -29,5 +29,5 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 [![TishanGamage GitHub Stats](https://github-readme-stats.vercel.app/api?username=TishanGamage&show_icons=true&count_private=true)](https://github.com/TishanGamage)
 
-⭐️ From [@anandmainali](https://github.com/TishanGamage)
+⭐️ From [@Tishan Gamage](https://github.com/TishanGamage)
 )
