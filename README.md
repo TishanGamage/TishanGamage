@@ -13,6 +13,11 @@ An aspiring developer eager to dive into the world of coding. I've always been c
   
 <b>Excited to get started!</b>
 </p>
+
+<img src="https://raw.githubusercontent.com/TishanGamage/TishanGamage/output/snake.svg" alt="Snake animation" />
+
+###
+
 </div>
 
 ⭐️[@Tishan Gamage](https://github.com/TishanGamage)
