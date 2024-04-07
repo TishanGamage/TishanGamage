@@ -9,13 +9,10 @@
 
 <div>
  <p>
-An aspiring developer eager to dive into the world of coding. I've always been captivated by technology and its ability to shape the future. As a trainee developer, I'm here to absorb knowledge, tackle challenges, and grow alongside this incredible team.
+I am an aspiring developer eager to dive into the world of coding. I've always been captivated by technology's ability to shape the future. As a trainee developer, I'm here to absorb knowledge, tackle challenges, and grow alongside this incredible team.
   
 <b>Excited to get started!</b>
 </p>
-
-<img src="https://raw.githubusercontent.com/TishanGamage/TishanGamage/output/snake.svg" alt="Snake animation" />
-
 </div>
 
 ⭐️[@Tishan Gamage](https://github.com/TishanGamage)
