@@ -20,7 +20,7 @@ I am an aspiring developer eager to dive into the world of coding. I've always b
 </p>
 <br>
 
-| ![Tishan's github stats](https://github-readme-stats.vercel.app/api?username=TishanGamage&show_icons=true&count_private=true&theme=tokyonight) | ![Tishan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TishanGamage&theme=tokyonight) |
+| ![Tishan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TishanGamage&theme=tokyonight) |
 | --- | --- |
 
 ⭐️ [@Tishan Gamage](https://github.com/TishanGamage)
