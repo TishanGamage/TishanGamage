@@ -21,7 +21,7 @@ I am an aspiring developer eager to dive into the world of coding. I've always b
 </p>
 <br>
  
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=codewhi5per&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewhi5per&theme=tokyonight) |
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=TishanGamage&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewhi5per&theme=tokyonight) |
 | --- | --- |
 
 ⭐️[@Tishan Gamage](https://github.com/TishanGamage)
