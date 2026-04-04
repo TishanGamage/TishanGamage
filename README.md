@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- PREMIUM HEADER -->
+<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=TISHAN%20DHANUJA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20Backend%20Focused&descAlignY=60&descSize=16" width="100%"/>
 
 <br/>
@@ -41,26 +41,16 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TishanGamage&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TishanGamage&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TishanGamage&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TishanGamage&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TishanGamage&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=TishanGamage&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=TishanGamage&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
@@ -77,7 +67,6 @@
 
 <div align="center">
 
-<!-- CLEAN FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
