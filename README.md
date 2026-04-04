@@ -45,12 +45,12 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TishanGamage&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TishanGamage&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TishanGamage&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TishanGamage&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TishanGamage&theme=tokyonight" />
+<img width="75%" src="https://streak-stats.demolab.com?user=TishanGamage&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
