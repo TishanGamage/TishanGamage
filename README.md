@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Trainee Software Engineer @ LOLC Technologies  
+- 💼 Associate Software Engineer @ LOLC Technologies  
 - 🌍 Based in Sri Lanka 🇱🇰  
 - 🧠 Focused on **Backend Engineering & System Design**  
 - ☁️ Exploring **Cloud & DevOps (Docker, Kubernetes)**  
